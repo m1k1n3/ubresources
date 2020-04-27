@@ -4,7 +4,7 @@ UB Resources
 <h4>General information</h4>
 Url : Still to be bought<br />
 hosting: http://62.210.239.213/ <br/>
-Template : Bootstrap<br />
+Template : Bootstrap<br/>
 Datamapping ORM :http://www.phpactiverecord.org/ We use the developer version not the stable one <br/>
 Data Warehouse: My Dropbox Account <br/>
 
